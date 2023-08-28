@@ -25,11 +25,12 @@ $ go get -d -v $(cat dependencies.txt)
 5. Set up the environment variables:
 - `DATABASE_URL`: Connection string to your PostgreSQL database
 - `Port`: Add your desire PORT
-5. Get the build of project:
+6. Migrate the models ``` go run migrate/migrate.go```
+7. Get the build of project:
 ```bash
 $ go build -o URl_SHORTNER_APPLICATION 
 ```
-6. Run the project:
+8. Run the project:
 ```bash
 $ go run main.go
 ```
