@@ -5,8 +5,8 @@ This Git repository contains a Tiny URL software implemented in the Go programmi
 ## Table of Contents
 
 - [Installation](#installation)
-- [User Authentication](#User Authentication)
-- [URL Shortening](#URL Shortening)
+- [User Authentication](#User-Authentication)
+- [URL Shortening](#URL-Shortening)
 - [Contributing](#Contributing)
 - [License](#license)
 
